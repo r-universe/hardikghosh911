@@ -8,3 +8,8 @@
 	url = https://github.com/cran/ABSurvTDC
 	shallow = true
 	registered = true
+[submodule "BaseTempSeed"]
+	path = BaseTempSeed
+	url = https://github.com/cran/BaseTempSeed
+	shallow = true
+	registered = true
