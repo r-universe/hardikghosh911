@@ -11,3 +11,6 @@
 [submodule "HTSeed"]
 	path = HTSeed
 	url = https://github.com/cran/HTSeed
+[submodule "HTSeedGLM"]
+	path = HTSeedGLM
+	url = https://github.com/cran/HTSeedGLM
