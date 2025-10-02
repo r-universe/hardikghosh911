@@ -8,6 +8,9 @@
 [submodule "BaseTempSeed"]
 	path = BaseTempSeed
 	url = https://github.com/cran/BaseTempSeed
+[submodule "ExtendedABSurvTDC"]
+	path = ExtendedABSurvTDC
+	url = https://github.com/cran/ExtendedABSurvTDC
 [submodule "HTSeed"]
 	path = HTSeed
 	url = https://github.com/cran/HTSeed
